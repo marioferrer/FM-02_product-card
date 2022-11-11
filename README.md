@@ -25,8 +25,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Frontend solution](https://www.frontendmentor.io/solutions/profile-card-component-using-flexbox-ubjyu9jz5B)
-- Live Site URL: [Live site with GitHub Pages](https://marioferrer.github.io/FM-01_profile-card-component/)
+- Solution URL: [Frontend solution](https://www.frontendmentor.io/solutions/product-card-geKdXpFLWF)
+- Live Site URL: [Live site with GitHub Pages](https://marioferrer.github.io/FM-02_product-card/)
 
 ## My process
 
